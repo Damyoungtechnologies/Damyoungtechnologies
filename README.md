@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damyoungtechnologies
 - 👀 I’m interested in self coding improvement 
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m a fullstack software engineer
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me via whatsapp: +2348032077924
 - 😄 Pronouns: He
